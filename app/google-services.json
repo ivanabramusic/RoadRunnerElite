@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023804113543",
+    "project_id": "roadrunnerelite-cdc89",
+    "storage_bucket": "roadrunnerelite-cdc89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023804113543:android:d755b03d071d3897c6ae22",
+        "android_client_info": {
+          "package_name": "com.example.roadrunnerelite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
